@@ -8,6 +8,7 @@ struct Derived1 : Base {
     virtual void do_semothing() {
         std::cout << "Derived1!!!" << std::endl;
     }
+
 };
 
 struct Derived2 : Base {
