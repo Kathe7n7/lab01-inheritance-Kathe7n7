@@ -6,6 +6,8 @@
 #define LAB01_INHERITANCE_DERIVED2_H
 
 #include "Base.h"
+#include <iostream>
+using namespace std;
 
 class Derived2 : public Base {
 public:
@@ -13,7 +15,8 @@ public:
 
     virtual ~Derived2();
 
-    void do_something() override;
+    virtual void do_something() ;
+
 };
 
 

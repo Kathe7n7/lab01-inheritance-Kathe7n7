@@ -1,0 +1,3 @@
+C:/Users/Andrea/CLionProjects/lab01-inheritance-Kathe7n7/cmake-build-herencia/CMakeFiles/lab01_Inheritance.dir
+C:/Users/Andrea/CLionProjects/lab01-inheritance-Kathe7n7/cmake-build-herencia/CMakeFiles/edit_cache.dir
+C:/Users/Andrea/CLionProjects/lab01-inheritance-Kathe7n7/cmake-build-herencia/CMakeFiles/rebuild_cache.dir
