@@ -14,6 +14,7 @@ public:
     Derived2();
 
     virtual ~Derived2();
+
     virtual string toString();
 
     virtual void do_something() ;
