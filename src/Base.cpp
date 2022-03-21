@@ -6,6 +6,7 @@
 
 Base::~Base() {
     cout<<"Destructor Class Base"<<endl;
+
 }
 
 

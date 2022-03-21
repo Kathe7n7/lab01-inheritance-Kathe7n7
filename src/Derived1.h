@@ -20,6 +20,7 @@ public:
 
     virtual string toString();
 
+
 };
 
 #endif //LAB01_INHERITANCE_DERIVED1_H

@@ -7,6 +7,7 @@
 
 #include "Base.h"
 #include <iostream>
+
 using namespace std;
 
 class Derived2 : public Base {

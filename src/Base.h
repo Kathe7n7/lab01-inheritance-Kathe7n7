@@ -16,6 +16,7 @@ public:
 
     Base();
 
+
     ~Base();
 
     virtual void do_something();

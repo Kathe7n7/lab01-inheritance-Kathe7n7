@@ -9,6 +9,7 @@ using std::cout;
 
 int main(){
 
+
     cout<<"\nAriana Solano Vallejos Lab01 G05"<<std::endl;
 
     Derived1 d1;

@@ -15,4 +15,5 @@ string Derived2::toString() {
     stringstream ss;
     ss<< "Derivada 2"<<endl;
     return ss.str();
+
 }

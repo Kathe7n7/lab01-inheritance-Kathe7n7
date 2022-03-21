@@ -19,6 +19,7 @@ void Derived1::do_something() {
 string Derived1::toString() {
     stringstream ss;
     ss<< "Derivada 1"<<endl;
+
     return ss.str();
 }
 
